@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\Cadena de responsabilidad\Cadena de Responsabilidad\Cadena de Responsabilidad\obj\Debug\net6.0\Cadena de Responsabilidad.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Cadena de responsabilidad\Cadena de Responsabilidad\Cadena de Responsabilidad\obj\Debug\net6.0\Cadena de Responsabilidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Cadena de responsabilidad\Cadena de Responsabilidad\Cadena de Responsabilidad\obj\Debug\net6.0\Cadena de Responsabilidad.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Cadena de responsabilidad\Cadena de Responsabilidad\Cadena de Responsabilidad\obj\Debug\net6.0\Cadena de Responsabilidad.AssemblyInfo.cs
+C:\Users\maria\source\repos\Cadena de responsabilidad\Cadena de Responsabilidad\Cadena de Responsabilidad\obj\Debug\net6.0\Cadena de Responsabilidad.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Cadena de responsabilidad\Cadena de Responsabilidad\Cadena de Responsabilidad\bin\Debug\net6.0\Cadena de Responsabilidad.exe
+C:\Users\maria\source\repos\Cadena de responsabilidad\Cadena de Responsabilidad\Cadena de Responsabilidad\bin\Debug\net6.0\Cadena de Responsabilidad.deps.json
+C:\Users\maria\source\repos\Cadena de responsabilidad\Cadena de Responsabilidad\Cadena de Responsabilidad\bin\Debug\net6.0\Cadena de Responsabilidad.runtimeconfig.json
+C:\Users\maria\source\repos\Cadena de responsabilidad\Cadena de Responsabilidad\Cadena de Responsabilidad\bin\Debug\net6.0\Cadena de Responsabilidad.dll
+C:\Users\maria\source\repos\Cadena de responsabilidad\Cadena de Responsabilidad\Cadena de Responsabilidad\bin\Debug\net6.0\Cadena de Responsabilidad.pdb
+C:\Users\maria\source\repos\Cadena de responsabilidad\Cadena de Responsabilidad\Cadena de Responsabilidad\obj\Debug\net6.0\Cadena de Responsabilidad.dll
+C:\Users\maria\source\repos\Cadena de responsabilidad\Cadena de Responsabilidad\Cadena de Responsabilidad\obj\Debug\net6.0\refint\Cadena de Responsabilidad.dll
+C:\Users\maria\source\repos\Cadena de responsabilidad\Cadena de Responsabilidad\Cadena de Responsabilidad\obj\Debug\net6.0\Cadena de Responsabilidad.pdb
+C:\Users\maria\source\repos\Cadena de responsabilidad\Cadena de Responsabilidad\Cadena de Responsabilidad\obj\Debug\net6.0\Cadena de Responsabilidad.genruntimeconfig.cache
+C:\Users\maria\source\repos\Cadena de responsabilidad\Cadena de Responsabilidad\Cadena de Responsabilidad\obj\Debug\net6.0\ref\Cadena de Responsabilidad.dll

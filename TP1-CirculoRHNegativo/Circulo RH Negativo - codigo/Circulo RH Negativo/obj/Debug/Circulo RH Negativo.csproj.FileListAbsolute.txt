@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\Circulo RH Negativo\Circulo RH Negativo\bin\Debug\Circulo RH Negativo.exe.config
+C:\Users\maria\source\repos\Circulo RH Negativo\Circulo RH Negativo\bin\Debug\Circulo RH Negativo.exe
+C:\Users\maria\source\repos\Circulo RH Negativo\Circulo RH Negativo\bin\Debug\Circulo RH Negativo.pdb
+C:\Users\maria\source\repos\Circulo RH Negativo\Circulo RH Negativo\obj\Debug\Circulo RH Negativo.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Circulo RH Negativo\Circulo RH Negativo\obj\Debug\Circulo RH Negativo.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Circulo RH Negativo\Circulo RH Negativo\obj\Debug\Circulo RH Negativo.exe
+C:\Users\maria\source\repos\Circulo RH Negativo\Circulo RH Negativo\obj\Debug\Circulo RH Negativo.pdb
+C:\Users\maria\source\repos\Circulo RH Negativo - copia\Circulo RH Negativo\bin\Debug\Circulo RH Negativo.exe.config
+C:\Users\maria\source\repos\Circulo RH Negativo - copia\Circulo RH Negativo\bin\Debug\Circulo RH Negativo.exe
+C:\Users\maria\source\repos\Circulo RH Negativo - copia\Circulo RH Negativo\bin\Debug\Circulo RH Negativo.pdb
+C:\Users\maria\source\repos\Circulo RH Negativo - copia\Circulo RH Negativo\obj\Debug\Circulo RH Negativo.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Circulo RH Negativo - copia\Circulo RH Negativo\obj\Debug\Circulo RH Negativo.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\source\repos\Circulo RH Negativo - copia\Circulo RH Negativo\obj\Debug\Circulo RH Negativo.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Circulo RH Negativo - copia\Circulo RH Negativo\obj\Debug\Circulo RH Negativo.exe
+C:\Users\maria\source\repos\Circulo RH Negativo - copia\Circulo RH Negativo\obj\Debug\Circulo RH Negativo.pdb
