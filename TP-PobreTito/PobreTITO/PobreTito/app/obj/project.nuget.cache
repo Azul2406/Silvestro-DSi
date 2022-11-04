@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qFucvn96fkVssWNMWkUz3fnjtWaNvig0qF8FqZyly5/vOv9A4SsATAtlGuxF8t5jqGOxVE3TAMa4r5QnKilU8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maria\\OneDrive\\Documentos\\3ro\\Diseño de Sistemas\\Silvestro-DSi\\TP-PobreTito\\PobreTITO\\PobreTito\\app\\capacitacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,113 @@
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.csprojAssemblyReference.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CoreCompileInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfoInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfo.cs
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\servicio.deps.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\servicio.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\contrato.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\contrato.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CopyComplete
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.pdb
+C:\Development\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\servicio.deps.json
+C:\Development\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\servicio.dll
+C:\Development\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\servicio.pdb
+C:\Development\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\contrato.dll
+C:\Development\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\contrato.pdb
+C:\Development\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.AssemblyReference.cache
+C:\Development\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfoInputs.cache
+C:\Development\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfo.cs
+C:\Development\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CoreCompileInputs.cache
+C:\Development\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CopyComplete
+C:\Development\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.dll
+C:\Development\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\servicio.deps.json
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\servicio.dll
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\contrato.dll
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\servicio\bin\Debug\netcoreapp3.0\contrato.pdb
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfoInputs.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfo.cs
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CopyComplete
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.dll
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\servicio\bin\Debug\netcoreapp3.0\servicio.deps.json
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\servicio\bin\Debug\netcoreapp3.0\servicio.dll
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\servicio\bin\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\servicio\bin\Debug\netcoreapp3.0\contrato.dll
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\servicio\bin\Debug\netcoreapp3.0\contrato.pdb
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfoInputs.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfo.cs
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CopyComplete
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\servicio\obj\Debug\netcoreapp3.0\servicio.dll
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\servicio\obj\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\servicio\bin\Debug\netcoreapp3.0\servicio.deps.json
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\servicio\bin\Debug\netcoreapp3.0\servicio.dll
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\servicio\bin\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\servicio\bin\Debug\netcoreapp3.0\contrato.dll
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\servicio\bin\Debug\netcoreapp3.0\contrato.pdb
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\servicio\obj\Debug\netcoreapp3.0\servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CopyComplete
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\servicio\obj\Debug\netcoreapp3.0\servicio.dll
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\servicio\obj\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\servicio\bin\Debug\netcoreapp3.0\servicio.deps.json
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\servicio\bin\Debug\netcoreapp3.0\servicio.dll
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\servicio\bin\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\servicio\bin\Debug\netcoreapp3.0\contrato.dll
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\servicio\bin\Debug\netcoreapp3.0\contrato.pdb
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CopyComplete
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.dll
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\servicio\bin\Debug\netcoreapp3.0\servicio.deps.json
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\servicio\bin\Debug\netcoreapp3.0\servicio.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\servicio\bin\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\servicio\bin\Debug\netcoreapp3.0\contrato.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\servicio\bin\Debug\netcoreapp3.0\contrato.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CopyComplete
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\servicio\bin\Debug\netcoreapp3.0\servicio.deps.json
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\servicio\bin\Debug\netcoreapp3.0\servicio.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\servicio\bin\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\servicio\bin\Debug\netcoreapp3.0\contrato.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\servicio\bin\Debug\netcoreapp3.0\contrato.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CopyComplete
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\servicio\bin\Debug\netcoreapp3.0\servicio.deps.json
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\servicio\bin\Debug\netcoreapp3.0\servicio.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\servicio\bin\Debug\netcoreapp3.0\servicio.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\servicio\bin\Debug\netcoreapp3.0\contrato.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\servicio\bin\Debug\netcoreapp3.0\contrato.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.csproj.CopyComplete
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\servicio\obj\Debug\netcoreapp3.0\servicio.pdb

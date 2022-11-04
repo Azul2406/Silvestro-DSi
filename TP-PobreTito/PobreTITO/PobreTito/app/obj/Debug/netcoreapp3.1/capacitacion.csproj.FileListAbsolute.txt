@@ -1,0 +1,268 @@
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\bin\Debug\netcoreapp3.1\capacitacion.exe
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\bin\Debug\netcoreapp3.1\capacitacion.deps.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.dev.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\bin\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\bin\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\capacitacion.csprojAssemblyReference.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\capacitacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfoInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfo.cs
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\capacitacion.RazorTargetAssemblyInfo.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.Manifest.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.xml
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api\app\obj\Debug\netcoreapp3.1\capacitacion.genruntimeconfig.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\capacitacion.exe
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\capacitacion.deps.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.dev.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\contrato.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\bin\Debug\netcoreapp3.1\contrato.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.csprojAssemblyReference.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfoInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfo.cs
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.RazorTargetAssemblyInfo.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CopyComplete
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.Manifest.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.xml
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato\app\obj\Debug\netcoreapp3.1\capacitacion.genruntimeconfig.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.exe
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.deps.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.dev.json
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\contrato.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\contrato.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.csprojAssemblyReference.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfoInputs.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfo.cs
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.RazorTargetAssemblyInfo.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CopyComplete
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.Manifest.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.xml
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.genruntimeconfig.cache
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\servicio.dll
+C:\Users\E-Partners-21\Documents\desarrollos\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\servicio.pdb
+C:\Development\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Development\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Development\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.exe
+C:\Development\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.deps.json
+C:\Development\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.json
+C:\Development\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.dev.json
+C:\Development\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.dll
+C:\Development\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Development\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\contrato.dll
+C:\Development\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\servicio.dll
+C:\Development\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\contrato.pdb
+C:\Development\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\servicio.pdb
+C:\Development\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.AssemblyReference.cache
+C:\Development\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfoInputs.cache
+C:\Development\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfo.cs
+C:\Development\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CoreCompileInputs.cache
+C:\Development\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Development\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.Manifest.cache
+C:\Development\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.xml
+C:\Development\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\scopedcss\bundle\capacitacion.styles.css
+C:\Development\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.RazorTargetAssemblyInfo.cache
+C:\Development\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CopyComplete
+C:\Development\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.dll
+C:\Development\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Development\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.genruntimeconfig.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.exe
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.deps.json
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.json
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.dev.json
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\contrato.dll
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\servicio.dll
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\contrato.pdb
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\bin\Debug\netcoreapp3.1\servicio.pdb
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfoInputs.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfo.cs
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CopyComplete
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.Manifest.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.xml
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.genruntimeconfig.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + servicios\app\obj\Debug\netcoreapp3.1\scopedcss\bundle\capacitacion.styles.css
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\capacitacion.exe
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\capacitacion.deps.json
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.json
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.dev.json
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\contrato.dll
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\servicio.dll
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\contrato.pdb
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\servicio.pdb
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfoInputs.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfo.cs
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.Manifest.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.xml
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\scopedcss\bundle\capacitacion.styles.css
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CopyComplete
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\Sergio\source\capacitacion\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\capacitacion.StaticWebAssets.xml
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\capacitacion.exe
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\capacitacion.deps.json
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.json
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.dev.json
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\contrato.dll
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\servicio.dll
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\contrato.pdb
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\bin\Debug\netcoreapp3.1\servicio.pdb
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.Manifest.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.RazorTargetAssemblyInfo.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CopyComplete
+C:\Users\maria\OneDrive\Documentos\Capacitación API\api + contrato + solicitud y respuesta\app\obj\Debug\netcoreapp3.1\capacitacion.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.StaticWebAssets.xml
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.exe
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.deps.json
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.json
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.dev.json
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\bin\Debug\netcoreapp3.1\contrato.dll
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\bin\Debug\netcoreapp3.1\servicio.dll
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\bin\Debug\netcoreapp3.1\contrato.pdb
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\bin\Debug\netcoreapp3.1\servicio.pdb
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.Manifest.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.RazorTargetAssemblyInfo.cache
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CopyComplete
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\maria\OneDrive\Documentos\Capacitación API\Tito\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.StaticWebAssets.xml
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.exe
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.deps.json
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.json
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.dev.json
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\bin\Debug\netcoreapp3.1\contrato.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\bin\Debug\netcoreapp3.1\servicio.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\bin\Debug\netcoreapp3.1\contrato.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\bin\Debug\netcoreapp3.1\servicio.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.Manifest.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.RazorTargetAssemblyInfo.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CopyComplete
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Titoo\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.StaticWebAssets.xml
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.exe
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.deps.json
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.json
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.dev.json
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\contrato.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\servicio.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\contrato.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\servicio.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.Manifest.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.RazorTargetAssemblyInfo.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CopyComplete
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.StaticWebAssets.xml
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.exe
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.deps.json
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.json
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.runtimeconfig.dev.json
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\contrato.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\servicio.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\contrato.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\bin\Debug\netcoreapp3.1\servicio.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\staticwebassets\capacitacion.StaticWebAssets.Manifest.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.RazorTargetAssemblyInfo.cache
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.csproj.CopyComplete
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.dll
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.pdb
+C:\Users\maria\OneDrive\Documentos\3ro\Diseño de Sistemas\Silvestro-DSi\TP-PobreTito\PobreTITO\PobreTito\app\obj\Debug\netcoreapp3.1\capacitacion.genruntimeconfig.cache
