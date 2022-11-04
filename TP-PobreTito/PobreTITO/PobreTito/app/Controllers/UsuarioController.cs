@@ -55,13 +55,13 @@ namespace pobretito.Controllers
             public async Task<RespuestaObtener> Obtener([FromQuery] SolicitudObtener solicitud)
             {
                 var respuesta = new RespuestaObtener();
-                var listaUsuarios = this.Usuarios;
                 
- //listaUsuarios.Where(u => u.NombreUsuario.Contains(solicitud.NombreUsuario));
+                
+
                 
                 if (!string.IsNullOrEmpty(solicitud.NombreUsuario) && !string.IsNullOrEmpty(solicitud.Contraseña) ) 
                 {
-                    //listaUsuarios.Where(u => u.NombreUsuario.Contains(solicitud.NombreUsuario));
+                    
 
                     foreach(Usuario usuario in Usuarios)
                     {
